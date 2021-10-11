@@ -4,7 +4,7 @@ The weather jounrnal app is an asynchronous web app that uses openweathermap API
 the given ZIP codeand dynamically update the UI of the weather journal app.
  
 ## Demo-Preview
-![Page-Demo](https://imgur.com/a/6jOzpFA)
+![Page-Demo](https://imgur.com/F5mxrOZ)
 
 ## Table of Contents
 
