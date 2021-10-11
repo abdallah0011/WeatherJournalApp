@@ -1,0 +1,17 @@
+{
+  "name": "weather-journal-app",
+  "version": "1.0.0",
+  "description": "The weather jounrnal app is an asynchronous web app that uses openweathermap API and user given data to get the current temprature of \r the given ZIP codeand dynamically update the UI of the weather journal app.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
